@@ -12,6 +12,7 @@ import os
 
 
 width, height, n_len, n_class, channel = 120, 80, 4, 62, 1
+batch_size  = 32
 characters=string.digits+string.ascii_uppercase +  string.ascii_lowercase
 
 
